@@ -1,0 +1,3 @@
+Build-> It Build the code
+Tets-> Test the code for bug or error 
+Deploy->Successful testing ensure smooth delpoyment 

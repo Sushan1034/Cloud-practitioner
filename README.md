@@ -49,7 +49,12 @@ CD(Continuous Deployment) is the practice of automatically deploying tested code
 
 CI -> Build -> Test -> CD -> Deploy
 
-
-
+# Linux commands
+ -> Create folder 
+   -basic/
+   -networking/
+   -disk/
+ -> mkdir basic,networking,disk -create three folder at one time
+ 
 
 
