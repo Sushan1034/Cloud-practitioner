@@ -1,0 +1,11 @@
+# What is DevOps? Why DevOps is important?
+DevOps is the process where code changes are run,tested,build and deploy in a flexible manner so that software delivery becomes faster.
+
+It is important because for :
+1)Automation
+2)CI/CD
+4)Infrastructure Mangement 
+5)Monitoring and Logging
+6)Faster Delivery
+7)Reduce human error
+
